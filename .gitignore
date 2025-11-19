@@ -9,6 +9,7 @@ __pycache__/
 *.pyc
 *.pyo
 config.py
+uv.lock
 
 # MicroPython
 *.mpy
