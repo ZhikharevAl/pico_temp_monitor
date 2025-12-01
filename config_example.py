@@ -3,7 +3,7 @@ WIFI_PASSWORD = "wjdJld9Ht8"
 
 MQTT_SERVER = "192.168.1.51"
 MQTT_PORT = 1883
-MQTT_TOPIC = b"pico/metrics"
+MQTT_TOPIC = b"pico_metrics"
 CLIENT_ID = "pico-w-micropython"
 
 
